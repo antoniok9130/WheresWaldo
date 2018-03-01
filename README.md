@@ -16,5 +16,4 @@ Below are examples of maps where the model was able to locate Waldo:
 ![](https://github.com/antoniok9130/WheresWaldo/blob/master/Examples/Map%207.png)
 ![](https://github.com/antoniok9130/WheresWaldo/blob/master/Examples/Map%209.png)
 ![](https://github.com/antoniok9130/WheresWaldo/blob/master/Examples/Map%2014.png)
-![](https://github.com/antoniok9130/WheresWaldo/blob/master/Examples/Map%2015.png)
 ![](https://github.com/antoniok9130/WheresWaldo/blob/master/Examples/Map%2019.png)
